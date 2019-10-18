@@ -49,7 +49,7 @@ function jsonFlickrFeed(data) {
 </script>
 
 <script type="text/javascript" src="https://api.flickr.com/services/feeds/photos_public.gne?format=json&tags=owl"></script>
-
+<button type="button" class="btn btn-success">Success</button>
 
 <header class="row">
 	<figure class="col-lg-2 col-md-2 col-sm-2">
